@@ -22,7 +22,7 @@
   ],
   "ads": [
     {
-      "ad_status": 1,
+      "ad_status": 0,
       "main_ad": "applovin_max",
       "backup_ad": "startapp",
       "admob_banner_unit_id": "",
@@ -68,35 +68,19 @@
   "categories": [
     {
       "id": 1,
-      "name": "Mod SR3 Single Glass",
-      "image": "https://raw.githubusercontent.com/majjalan111/sr3singleglass/main/sr3fitur.png"
+      "name": "Truk Hino 500 Kontainer Baru",
+      "image": "https://raw.githubusercontent.com/majjalan111/com.inimodtrukhinokontainer.trailermajujalanbussid/main/hino%20fitur.png"
     }
   ],
   "posts": [
     {
       "id": 1,
-      "category": "Mod SR3 Single Glass",
-      "title": "MOD SR3 Single Glass Scania K360iB by Thien",
-      "image": "https://raw.githubusercontent.com/majjalan111/sr3singleglass/main/sr3fitur.png",
+      "category": "Truk Hino 500 Kontainer Baru",
+      "title": "Mod truk hino 500 terbaru bonus Livery",
+      "image": "https://raw.githubusercontent.com/majjalan111/com.inimodtrukhinokontainer.trailermajujalanbussid/main/hino%20fitur.png",
       "content": "https://htmlpreview.github.io/?https://raw.githubusercontent.com/majjalan111/sr3singleglass/main/sr3singleglass1.html",
       "video": ""
-    },
-{
-      "id": 2,
-      "category": "Mod SR3 Single Glass",
-      "title": "MOD SR3 Single Glass Panorama v2 by Thien",
-      "image": "https://raw.githubusercontent.com/majjalan111/sr3singleglass/main/sr3fitur.png",
-      "content": "https://htmlpreview.github.io/?https://raw.githubusercontent.com/majjalan111/sr3singleglass/main/sr3singleglass2.html",
-      "video": ""
-    },
-{
-      "id": 3,
-      "category": "Mod SR3 Single Glass",
-      "title": "Livery Pack v2 SR3 Single Glass Scania K360iB Thien",
-      "image": "https://raw.githubusercontent.com/majjalan111/sr3singleglass/main/sr3fitur.png",
-      "content": "https://htmlpreview.github.io/?https://raw.githubusercontent.com/majjalan111/sr3singleglass/main/sr3singleglass3.html",
-      "video": ""
-    }  
+    }
 		
   ]
 }
